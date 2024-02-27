@@ -1,7 +1,5 @@
 # Machine Learning
 
-In this repo is a jupyter notebook that demonstrates how to construct a simple neural network and XGBoost model to predict Iris species using the UCI Iris dataset.
+This repo is designed for professional development and has examples to demonstrate skills for a variety of modeling approaches
 
-# To Come
-
-This repo will be designed to show how to create a generic architecture for fitting models to data.
+Currently in this repo are a set of jupyter notebooks demonstrating a sample of approaches for fitting nueral networks and XGB models to various types of data. There are examples for classification, image detection, and time series analysis.
